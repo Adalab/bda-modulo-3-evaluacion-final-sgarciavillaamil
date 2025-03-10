@@ -26,10 +26,10 @@ Este ejercicio técnico se ha entregado el 10/03/2025
 
 ### Objetivos🎯
 Los objetivos mínimos son:
-•	Análisis exploratorio de los datos.
-•	Gestión de nulos.
-•	Visualización de datos con Matplotlib y Seaborn.
-•	Estadística descriptiva e inferencial.
+•	Análisis exploratorio de los datos.  
+•	Gestión de nulos.  
+•	Visualización de datos con Matplotlib y Seaborn.  
+•	Estadística descriptiva e inferencial.  
 
 ¡Muchas gracias por tu atención!!!
 
