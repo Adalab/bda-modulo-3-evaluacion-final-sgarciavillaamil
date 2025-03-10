@@ -25,7 +25,7 @@ Después de revisar, limpiar y tratar los dataframe, he generado un nuevo datafr
 Este ejercicio técnico se ha entregado el 10/03/2025
 
 ### Objetivos🎯
-Los objetivos mínimos son:
+Los objetivos mínimos son:  
 •	Análisis exploratorio de los datos.  
 •	Gestión de nulos.  
 •	Visualización de datos con Matplotlib y Seaborn.  
